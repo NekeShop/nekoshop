@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NekoShop.Common", "NekoShop.Common\NekoShop.Common.csproj", "{D6BA4ECE-E666-4254-9011-965B83886865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NekoShop.Model", "NekoShop.Model\NekoShop.Model.csproj", "{4E7D340E-E9A9-40FE-B07E-4F4952843BE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NekoShop.Data", "NekoShop.Data\NekoShop.Data.csproj", "{C263F649-7099-4299-A6DE-37AF4F816CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NekoShop.Service", "NekoShop.Service\NekoShop.Service.csproj", "{15B138A9-54AD-4B0D-895B-12A9F9FF94B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NekoShop.UnitTest", "NekoShop.UnitTest\NekoShop.UnitTest.csproj", "{DD1472AF-01EB-47DD-AA50-281E4823A328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NekeShop.Web", "NekeShop.Web\NekeShop.Web.csproj", "{9C64DB38-F0EA-4BF1-80E8-177859608DBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6BA4ECE-E666-4254-9011-965B83886865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6BA4ECE-E666-4254-9011-965B83886865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6BA4ECE-E666-4254-9011-965B83886865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6BA4ECE-E666-4254-9011-965B83886865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E7D340E-E9A9-40FE-B07E-4F4952843BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7D340E-E9A9-40FE-B07E-4F4952843BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7D340E-E9A9-40FE-B07E-4F4952843BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7D340E-E9A9-40FE-B07E-4F4952843BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C263F649-7099-4299-A6DE-37AF4F816CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C263F649-7099-4299-A6DE-37AF4F816CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C263F649-7099-4299-A6DE-37AF4F816CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C263F649-7099-4299-A6DE-37AF4F816CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B138A9-54AD-4B0D-895B-12A9F9FF94B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B138A9-54AD-4B0D-895B-12A9F9FF94B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B138A9-54AD-4B0D-895B-12A9F9FF94B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B138A9-54AD-4B0D-895B-12A9F9FF94B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1472AF-01EB-47DD-AA50-281E4823A328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1472AF-01EB-47DD-AA50-281E4823A328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1472AF-01EB-47DD-AA50-281E4823A328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1472AF-01EB-47DD-AA50-281E4823A328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C64DB38-F0EA-4BF1-80E8-177859608DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C64DB38-F0EA-4BF1-80E8-177859608DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C64DB38-F0EA-4BF1-80E8-177859608DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C64DB38-F0EA-4BF1-80E8-177859608DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
